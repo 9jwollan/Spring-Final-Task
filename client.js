@@ -25,7 +25,10 @@ function totals(list){
 
 //works the the same as above, but stops short at the kth number in the list
 function partialTotals(list,k){
-
+let k<n
+math.combine(c+t);
+Task.Create task()
+Task.Factory
 
 
 }
@@ -34,26 +37,26 @@ function partialTotals(list,k){
 function sortTime(list){
 
     //provide the criteria to sort the tasks.  They are objects remember.
-    return list.sort(/*fill this*/);
+    return list.sort(sortTime);
 
 }
 
 //returns a sorted version of the task list from least to greatest according to its value variable
 function sortValue(list){
-
+sortValue= min,max
 
 }
 
 //returns a sorted version of the task list from least to greatest according to its impact
 function sortImpact(list){
-
+sortImpact=((1/time)value)
     //create a function which returns the impact of a given task
     function impact(task){
 
     }
 
     //finishes the sort
-    return list.sort(/*fill this*/);
+    return list.sort(sortValue,sortTime,sortImpact);
 
 }
 
